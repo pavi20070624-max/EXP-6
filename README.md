@@ -13,8 +13,6 @@ DIAGRAM:
 ![WhatsApp Image 2025-12-26 at 7 08 52 PM (1)](https://github.com/user-attachments/assets/b0b8f4cf-144b-4d9f-beae-8608a268fc52)
 
 
-
-
 CIRCUIT DIAGRAM:
 <img width="1578" height="1600" alt="image" src="https://github.com/user-attachments/assets/042d603b-f608-49f4-a986-3154790f8c13" />
 
@@ -33,6 +31,8 @@ I. Connect the multimeter at the output of kit..
 4. Value and note the corresponding values of voltages in the multimeter.
 
 5. Plot the graph between displacement and voltages on the graph paper.
+
+
 OBSERVATION TABLE:
 
 
