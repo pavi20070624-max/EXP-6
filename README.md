@@ -18,22 +18,20 @@ DIAGRAM:
 CIRCUIT DIAGRAM:
 ![WhatsApp Image 2025-12-27 at 5 24 07 PM](https://github.com/user-attachments/assets/e0d67ddf-bb79-46f3-b16b-42ab983fec72)
 <img width="938" height="1599" alt="image" src="https://github.com/user-attachments/assets/bd059f95-5a5e-4ac5-a665-326664747cb4" />
+PROCEDURE: 
 
-
-PROCEDURE: -
 I. Connect the multimeter at the output of kit..
+
 2. Set the range to a maximum value of 10 mm.
+
 3. More the gauge from zero to maximum of 20mm.
+
 4. Value and note the corresponding values of voltages in the multimeter.
+
 5. Plot the graph between displacement and voltages on the graph paper.
-
-
 OBSERVATION TABLE:
 ![WhatsApp Image 2025-12-27 at 5 23 44 PM](https://github.com/user-attachments/assets/1dc37872-5f3b-443f-94f3-8c0fb3571b69)
-<img width="1080" height="1507" alt="image" src="https://github.com/user-attachments/assets/89c8d770-eeef-47be-8ecd-cc4bec6e33ca" />
-
-
-
+<img width="1080" height="1507" alt="image" src="https://github.com/user-attachments/assets/64868dd2-e040-4472-8980-3dbb4274f0a2" />
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
